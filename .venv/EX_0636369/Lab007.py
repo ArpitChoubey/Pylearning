@@ -1,5 +1,7 @@
 name = "Arpit choubey"
+name 1 = "Arpit "
 print(name)
+print(name 1)
 print(type(name))
 print(id(name))
 print(len(name))
