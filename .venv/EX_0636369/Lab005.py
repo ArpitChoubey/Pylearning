@@ -3,8 +3,8 @@ print(pi)
 print(type(pi))
 
 
-i = 10
-i2 = 200
+i = 100
+i2 = 20
 result = i2/i
 print(result)
 print(type(result))
